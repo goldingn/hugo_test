@@ -1,3 +1,11 @@
+---
+title: "some example blog post"
+date: "2016-05-17"
+description: "some more useful description"
+categories:
+    - "test"
+---
+
 # some example blog post
 
 ## Neque et valida luebat ab patulis coniunx
