@@ -1,0 +1,10 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://goldingn.github.io/hugo_test"
+title: "Hugo / GH pages test"
+canonifyurls: true
+...
